@@ -18,4 +18,4 @@ pip install tk
 pip install requests
 ```
 ## License
-Project is under (MIT License)[License.md].
+Project is under [MIT License](License.md).
